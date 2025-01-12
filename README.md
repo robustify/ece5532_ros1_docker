@@ -4,7 +4,7 @@
 
 First, install Docker CE by following steps 1 through 3 from "Install using the `apt` repository" on this page: [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
 
-In addition to Docker CD, in order to run the graphical ROS tools, the NVIDIA Container Toolkit is required.
+In addition to Docker CE, in order to run the graphical ROS tools, the NVIDIA Container Toolkit is required.
 The complete installation instructions can be found here: [https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
 
 The relevant instructions are included in this README for your convenience:
